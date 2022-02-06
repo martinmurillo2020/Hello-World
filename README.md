@@ -1,3 +1,3 @@
 # Hello-world
-mi primer repositorio
-voy entendiendo como funciona esto
+mi primer cambio en repositorio
+creo que voy bien
